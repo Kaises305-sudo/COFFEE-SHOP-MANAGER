@@ -106,7 +106,7 @@ def load_orders():
 
 def show_menu(menu):
     print()
-    print(f"{'MÃ':<8}{'TÊN MÓN':<25}{'NHÓM':<12}{'ĐƠN GIÁ':>12}")
+    print(f"{'MÃ':<15}{'TÊN MÓN':<25}{'NHÓM':<12}{'ĐƠN GIÁ':>12}")
     print("-" * 57)
 
     for item in menu:
