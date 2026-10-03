@@ -1,0 +1,11 @@
+{
+  "shop_name": "The Coffee Corner",
+  "total_orders": 1,
+  "revenue": 54000,
+  "items_sold": 2,
+  "best_seller": {
+    "id": "CF01",
+    "name": "Cà phê đen",
+    "quantity": 2
+  }
+}

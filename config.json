@@ -1,0 +1,12 @@
+{
+  "shop_name": "The Coffee Corner",
+  "currency": "VND",
+  "vat_rate": 0.08,
+  "discount_threshold": 200000,
+  "discount_rate": 0.1,
+  "files": {
+    "menu": "menu.csv",
+    "orders": "orders.txt",
+    "report": "report.json"
+  }
+}
